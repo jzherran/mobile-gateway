@@ -1,0 +1,11 @@
+{
+  "realm": "PayULatam-Realm",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAstRh4mq+N2XDFrvTdoRiplS55MSsFibdJ0GumiOxxoJsA9y/lKORZ8HtPAzZ6NH4PA4Nm8+gS0koZ27RFg5PhKSoF8HraTkpBYVoMzcQDLy0NaOxY+m/9lUrMVYPzev/ZNqA8JFRRooiCtgAfGMCOlaL6jexEEXoFNi8Vc2t+mxIp0AifqFfsynVDNc4sFMy9nm9kBF0CSGdMg4RZ3Ru24mNvM1GSLsOyhuMNKOFqjOheF91ISayK6pHPp9O+eEg/dw3h0QO5hgspedl0kEP6cXCwd4zoElVBcEtWI8l8viJjhKFtobzhF7cQzQodi7nzpLNAxYkUfS30b+4wedKOQIDAQAB",
+  "auth-server-url": "http://192.168.56.102:8230/auth",
+  "ssl-required": "external",
+  "resource": "client-mobile",
+  "credentials": {
+    "secret": "ac22c668-fff8-4c54-8901-677bf3b80e12"
+  },
+  "policy-enforcer": {}
+}
